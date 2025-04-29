@@ -38,11 +38,11 @@ A robust and modern project management platform inspired by Jira — built with 
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-![image](https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c)
+npm i 
 
 ### Make sure to create a `.env` file with following variables -
 
-```
+
 DATABASE_URL=
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -52,4 +52,7 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+npm run dev
+
 ```
