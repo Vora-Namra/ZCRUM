@@ -1,4 +1,4 @@
-# 🧩 Jira-like Project Management Tool
+# 🧩 ZCRUM - Project Management Tool
 
 A robust and modern project management platform inspired by Jira — built with **Next.js**, **Clerk**, **ShadCN**, **NeonDB**, **Prisma**, and **PostgreSQL**.
 
@@ -38,7 +38,7 @@ A robust and modern project management platform inspired by Jira — built with 
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-npm i 
+npm install
 
 ### Make sure to create a `.env` file with following variables -
 
